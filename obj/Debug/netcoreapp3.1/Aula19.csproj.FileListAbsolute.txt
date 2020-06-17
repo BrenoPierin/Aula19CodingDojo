@@ -1,0 +1,13 @@
+C:\Breno USA\Senai\Aula19\bin\Debug\netcoreapp3.1\Aula19.exe
+C:\Breno USA\Senai\Aula19\bin\Debug\netcoreapp3.1\Aula19.deps.json
+C:\Breno USA\Senai\Aula19\bin\Debug\netcoreapp3.1\Aula19.runtimeconfig.json
+C:\Breno USA\Senai\Aula19\bin\Debug\netcoreapp3.1\Aula19.runtimeconfig.dev.json
+C:\Breno USA\Senai\Aula19\bin\Debug\netcoreapp3.1\Aula19.dll
+C:\Breno USA\Senai\Aula19\bin\Debug\netcoreapp3.1\Aula19.pdb
+C:\Breno USA\Senai\Aula19\obj\Debug\netcoreapp3.1\Aula19.csprojAssemblyReference.cache
+C:\Breno USA\Senai\Aula19\obj\Debug\netcoreapp3.1\Aula19.csproj.CoreCompileInputs.cache
+C:\Breno USA\Senai\Aula19\obj\Debug\netcoreapp3.1\Aula19.AssemblyInfoInputs.cache
+C:\Breno USA\Senai\Aula19\obj\Debug\netcoreapp3.1\Aula19.AssemblyInfo.cs
+C:\Breno USA\Senai\Aula19\obj\Debug\netcoreapp3.1\Aula19.dll
+C:\Breno USA\Senai\Aula19\obj\Debug\netcoreapp3.1\Aula19.pdb
+C:\Breno USA\Senai\Aula19\obj\Debug\netcoreapp3.1\Aula19.genruntimeconfig.cache
